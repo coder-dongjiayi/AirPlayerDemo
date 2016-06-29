@@ -15,6 +15,8 @@
 		54791F1F1D23B335009FFDFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54791F1D1D23B335009FFDFC /* LaunchScreen.storyboard */; };
 		54791F2A1D23B335009FFDFC /* AirPlayerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 54791F291D23B335009FFDFC /* AirPlayerDemoTests.m */; };
 		54791F351D23B335009FFDFC /* AirPlayerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 54791F341D23B335009FFDFC /* AirPlayerDemoUITests.m */; };
+		54791F441D23C050009FFDFC /* IMG_0973.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 54791F421D23C050009FFDFC /* IMG_0973.PNG */; };
+		54791F451D23C050009FFDFC /* IMG_0974.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 54791F431D23C050009FFDFC /* IMG_0974.PNG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		54791F301D23B335009FFDFC /* AirPlayerDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirPlayerDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54791F341D23B335009FFDFC /* AirPlayerDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AirPlayerDemoUITests.m; sourceTree = "<group>"; };
 		54791F361D23B335009FFDFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54791F421D23C050009FFDFC /* IMG_0973.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0973.PNG; sourceTree = SOURCE_ROOT; };
+		54791F431D23C050009FFDFC /* IMG_0974.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0974.PNG; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		54791F0E1D23B335009FFDFC /* AirPlayerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				54791F421D23C050009FFDFC /* IMG_0973.PNG */,
+				54791F431D23C050009FFDFC /* IMG_0974.PNG */,
 				54791F121D23B335009FFDFC /* AppDelegate.h */,
 				54791F131D23B335009FFDFC /* AppDelegate.m */,
 				54791F151D23B335009FFDFC /* ViewController.h */,
@@ -246,6 +252,8 @@
 			files = (
 				54791F1F1D23B335009FFDFC /* LaunchScreen.storyboard in Resources */,
 				54791F1C1D23B335009FFDFC /* Assets.xcassets in Resources */,
+				54791F441D23C050009FFDFC /* IMG_0973.PNG in Resources */,
+				54791F451D23C050009FFDFC /* IMG_0974.PNG in Resources */,
 				54791F1A1D23B335009FFDFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
