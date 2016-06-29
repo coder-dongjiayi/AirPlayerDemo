@@ -7,3 +7,6 @@
 #最终效果图:![](https://github.com/SHIMLY-GitHub/AirPlayerDemo/blob/master/AirPlayerDemo/IMG_0973.PNG)<br>
 ![](https://github.com/SHIMLY-GitHub/AirPlayerDemo/blob/master/AirPlayerDemo/IMG_0974.PNG)
 
+####注意:1.网络不好 不会显示投影的图标。<br>
+####     2.必须真机运行 模拟器不支持
+
