@@ -124,6 +124,7 @@
     }
 }
 
+//获取设备名字
 - (NSString*)activeAirplayOutputRouteName
 {
     AVAudioSession* audioSession = [AVAudioSession sharedInstance];
